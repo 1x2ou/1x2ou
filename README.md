@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi+there!+I'm+Lingxiao+Zou" alt="👋 Hi there! I'm Lingxiao Zou" />
 
-  <p><strong>I'm currently Focus on Agentic RL.</strong></p>
+  <p><strong>I'm currently focusing on agentic RL research.</strong></p>
 
   <p>
     <a href="https://1x2ou.github.io/">Personal Website</a>
@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 Master's student at the [SCIR Lab](https://scir.hit.edu.cn/), Harbin Institute of Technology.
-- 🔬 Research interests: natural language processing and large language models.
+- 🔬 Research interests: natural language processing, large language models, and agentic AI.
 - 📍 Based in Harbin, China.
 
 <table>
