@@ -14,23 +14,26 @@
 - 🔬 Research interests: natural language processing and large language models.
 - 📍 Based in Harbin, China.
 
-<table width="100%">
+<table>
 <tr>
 <td valign="top" width="50%">
 
-### 💼 Work Experience
+#### 💼 Work Experience
 
-<strong>Huawei</strong><br/>
-<code>Advertising Algorithm</code> · <code>Xi'an</code><br/>
+<p>
+<strong>Huawei</strong> · <code>Advertising Algorithm</code> · <code>Xi'an</code><br/>
 <code>2024.11 to 2025.06</code>
+</p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="48%">
 
-### 🔬 Research Experience
+#### 🔬 Research Experience
 
+<p>
 <strong>ExpeTrans: LLMs Are Experiential Transfer Learners</strong><br/>
 Co-author · <code>ACL 2025 Main</code>
+</p>
 
 </td>
 </tr>
