@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi+there!+I'm+Lingxiao+Zou" alt="👋 Hi there! I'm Lingxiao Zou" />
 
-<!--
-**1x2ou/1x2ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://1x2ou.github.io/">Personal Website</a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's student at the [SCIR Lab](https://scir.hit.edu.cn/), Harbin Institute of Technology.
+- 🔬 Research interests: natural language processing and large language models.
+- 📝 Co-author of *ExpeTrans: LLMs Are Experiential Transfer Learners*, accepted to ACL 2025 Main.
+- 📍 Based in Harbin, China.
+
+<p align="center">
+  <i>Building reliable language intelligence through research.</i>
+</p>
