@@ -14,7 +14,7 @@
 - 🔬 Research interests: natural language processing and large language models.
 - 📍 Based in Harbin, China.
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
