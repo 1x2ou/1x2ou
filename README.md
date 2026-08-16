@@ -15,8 +15,8 @@
 - 📍 Based in Harbin, China.
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### 💼 Work Experience
 
@@ -24,14 +24,14 @@
 <code>Advertising Algorithm</code> · <code>Xi'an</code><br/>
 <code>2024.11 to 2025.06</code>
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### 🔬 Research Experience
 
 <strong>ExpeTrans: LLMs Are Experiential Transfer Learners</strong><br/>
 Co-author · <code>ACL 2025 Main</code>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
