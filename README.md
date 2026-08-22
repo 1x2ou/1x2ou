@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=%F0%9F%91%8B+Hi+there!+I'm+Lingxiao+Zou" alt="👋 Hi there! I'm Lingxiao Zou" />
 
-  <p><strong>I'm currently focusing on agentic RL research.</strong></p>
+  <p><strong>I'm currently focusing on agent research.</strong></p>
 
   <p>
     <a href="https://1x2ou.github.io/">Personal Website</a>
