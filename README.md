@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 🎓 Master's student at the [SCIR Lab](https://scir.hit.edu.cn/), Harbin Institute of Technology.
+- 🎓 Master's student at the [SCIR Lab](https://ir.hit.edu.cn/main.htm), Harbin Institute of Technology.
 - 🔬 Research interests: natural language processing, large language models, and agentic AI.
 - 📍 Based in Harbin, China.
 
