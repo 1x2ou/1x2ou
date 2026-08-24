@@ -21,7 +21,7 @@
 #### 💼 Work Experience
 
 <p>
-<strong>Huawei</strong> · <code>Advertising Algorithm</code> · <code>Xi'an</code><br/>
+<strong>Huawei</strong> · <code>Advertising Algorithm Intern</code> · <code>Xi'an</code><br/>
 <code>2024.11 to 2025.06</code>
 </p>
 
